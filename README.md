@@ -2,7 +2,7 @@
 github code repository for Human Pancreatic α-Cell Heterogeneity and Trajectory Inference Analyses Reveal SMOC1 as a β-Cell Dedifferentiation Gene. I will be as precise as possible, but if you still have questions, please reach out to me through issue or message. 
 
 # Preliminary Works
-We have applied several QC parameters, and loop them in this code. We began with SoupX"ed" file and DoubletFinder with exactly same parameters. Please refer to the respository under scRNA-snRNA Marker for more detailed code for SuopX. 
+We have applied several QC parameters, and loop them in this code. We began with SoupX"ed" file and DoubletFinder with exactly same parameters. Please refer to the respository under scRNA-snRNA Marker for more detailed code for SoupX. 
 
 ```R
 library(ROCR)
